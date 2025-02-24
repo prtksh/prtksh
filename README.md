@@ -3,13 +3,14 @@
   <p align="center">alucard - castlevania : symphony of the night</p>
 </p>
 
-# hello i'm pratiksha naik 💾
+## hello i'm pratiksha naik 💾
 
 ### _current academics_: 
 b.tech student in computer science engineering
 
 ### _check out_: 
 [my website!](https://prtksh.github.io/portfolio/)
+[my resume!](https://drive.google.com/file/d/1G6L0gIrF_rHqItN0ngNPw8sDQHJsIMdC/view)
 
 ### _tech stack_:
 ![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
