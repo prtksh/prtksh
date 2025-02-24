@@ -9,8 +9,8 @@ _check out_: [my website!](https://prtksh.github.io/portfolio/)
 _tech stack_:
 ![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" width="100" height="30" style="vertical-align: middle; margin-bottom: -3px;"> Python  
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="100" height="30" style="vertical-align: middle; margin-bottom: -3px;"> Java  
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 
