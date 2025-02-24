@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif" width="300">
+  <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif">
 </p>
 
 # hello i'm pratiksha 
