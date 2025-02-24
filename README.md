@@ -1,4 +1,13 @@
-## Hi there 👋
+  <img align="right" alt="alucard sleeping" width="400" src="https://sinmenon.tumblr.com/post/179801058707/castlevania-symphony-of-the-night-psx">
+
+# hello i'm pratiksha 
+
+## currently: b.tech student in computer science engineering
+
+## check out: [my website!](https://prtksh.github.io/portfolio/)
+
+## tech stack:
+
 
 <!--
 **prtksh/prtksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
