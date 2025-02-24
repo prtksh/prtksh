@@ -1,4 +1,4 @@
-  <img align="right" alt="alucard sleeping" width="400" src="https://sinmenon.tumblr.com/post/179801058707/castlevania-symphony-of-the-night-psx">
+
 
 # hello i'm pratiksha 
 
