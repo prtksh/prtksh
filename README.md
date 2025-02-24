@@ -44,6 +44,9 @@ b.tech student in computer science engineering, pune, MH
 ![image](https://img.shields.io/badge/IBM%20z/OS-000000?style=for-the-badge&logo=ibm&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
+####
+![](https://komarev.com/ghpvc/?username=prtksh&style=plastic&color=grey&label=views)
+
 #### _interests_:
 low-level programming, machine leaning, astronomy/astrophysics, bioinformatics
 
