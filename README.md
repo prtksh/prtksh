@@ -6,7 +6,7 @@
 ## you are viewing: pratiksha naik's profile 💾
 
 ### _current academics_: 
-b.tech student in computer science engineering
+b.tech student in computer science engineering, pune, MH
 
 ### _check out_: 
 [my website!](https://prtksh.github.io/portfolio/)
