@@ -46,8 +46,8 @@ b.tech student in computer science engineering
 #### _interests_:
 low-level programming, machine leaning, astronomy/astrophysics, bioinformatics
 
-<span style="font-size:10px;">This is custom large text</span>
-<font size="2">if you read this far then it means you respect what i have to say, thanks!</font>
+
+##### if you read this far then it means you respect what i have to say, thanks!
 <!--
 **prtksh/prtksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
