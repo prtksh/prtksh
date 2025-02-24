@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif">
+  <img src="https://github.com/prtksh/prtksh/blob/main/alucard-dance.gif">
   <p align="center">alucard - castlevania : symphony of the night</p>
 </p>
 
