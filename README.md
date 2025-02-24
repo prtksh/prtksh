@@ -1,10 +1,14 @@
-![](https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif)
+<p align="center">
+  <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif" width="300">
+</p>
 
 # hello i'm pratiksha 
 
-### _current academics_: b.tech student in computer science engineering
+### _current academics_: 
+b.tech student in computer science engineering
 
-### _check out_: [my website!](https://prtksh.github.io/portfolio/)
+### _check out_: 
+[my website!](https://prtksh.github.io/portfolio/)
 
 ### _tech stack_:
 ![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
