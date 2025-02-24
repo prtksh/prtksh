@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif">
+  alucard - castlevania : symphony of the night
 </p>
 
-# hello i'm pratiksha 
+# hello i'm pratiksha naik 💾
 
 ### _current academics_: 
 b.tech student in computer science engineering
@@ -42,7 +43,10 @@ b.tech student in computer science engineering
 ![image](https://img.shields.io/badge/IBM%20z/OS-000000?style=for-the-badge&logo=ibm&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
+#### _interests_:
+low-level programming, machine leaning, astronomy/astrophysics, bioinformatics
 
+* if you read this far then it means you respect what i have to say, thanks!
 <!--
 **prtksh/prtksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
