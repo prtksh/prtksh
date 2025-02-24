@@ -2,11 +2,11 @@
 
 # hello i'm pratiksha 
 
-_current academics_: b.tech student in computer science engineering
+### _current academics_: b.tech student in computer science engineering
 
-_check out_: [my website!](https://prtksh.github.io/portfolio/)
+### _check out_: [my website!](https://prtksh.github.io/portfolio/)
 
-_tech stack_:
+### _tech stack_:
 ![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -14,29 +14,29 @@ _tech stack_:
 ![image](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 
-*currently learning*:
+### *currently learning*:
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![image](https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=cobol&logoColor=white)
 ![image](https://img.shields.io/badge/Rexx-000000?style=for-the-badge&logo=ibm&logoColor=white)
 
-_web dev_:
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### _web dev_:
+![image](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-_other technologies and tools_:
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/IBM%20Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![image](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![image](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![image](https://img.shields.io/badge/IBM%20z/OS-FF5733?style=for-the-badge&logo=ibm&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### _other technologies and tools_:
+![image](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![image](https://img.shields.io/badge/IBM%20Qiskit-000000?style=for-the-badge&logo=ibm&logoColor=white)
+![image](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=white)
+![image](https://img.shields.io/badge/LATEX-000000?style=for-the-badge&logo=latex&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![image](https://img.shields.io/badge/IBM%20z/OS-000000?style=for-the-badge&logo=ibm&logoColor=white)
+![image](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <!--
