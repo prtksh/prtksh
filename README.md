@@ -3,7 +3,7 @@
   <p align="center">alucard - castlevania : symphony of the night</p>
 </p>
 
-## hello i'm pratiksha naik 💾
+## you are viewing: pratiksha naik's profile 💾
 
 ### _current academics_: 
 b.tech student in computer science engineering
