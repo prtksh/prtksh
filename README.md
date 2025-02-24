@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/prtksh/prtksh/blob/main/alucard-sleeping.gif">
-  alucard - castlevania : symphony of the night
+  <p>alucard - castlevania : symphony of the night</p>
 </p>
 
 # hello i'm pratiksha naik 💾
