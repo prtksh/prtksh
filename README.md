@@ -10,7 +10,7 @@ b.tech student in computer science engineering, pune, MH
 
 ### links:
 [my website!](https://prtksh.github.io/portfolio/)
-[my resume!](https://drive.google.com/file/d/1G6L0gIrF_rHqItN0ngNPw8sDQHJsIMdC/view)
+[my resume!](https://drive.google.com/file/d/1ZDR2Ej9pCf53EaKSkWXKI_ru7uB0FbFp/view)
 
 ### _tech stack_:
 ![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
